@@ -2,6 +2,19 @@
 
 > My name is Srujan, I'm pursuing my B.Tech in Computer Science and Engineering, Currently into fullstack development with a passion for developing webpages.
 
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/srujankachhadia23/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+<div id = "counter" align = "center">
+<img src="https://komarev.com/ghpvc/?username=Srujann23&style=flat-square&color=blue" alt=""/>
+</div>
+<h3 align = "center">
+  hey there, I'm Srujan Kachhadia
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h3>
+
 ## Activity Graph: 
  [![Activity graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Srujann23&theme=transparent)](https://github.com/Srujann23/)
 
