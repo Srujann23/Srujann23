@@ -1,7 +1,3 @@
-# Hello 👋
-
-> My name is Srujan, I'm pursuing my B.Tech in Computer Science and Engineering, Currently into fullstack development with a passion for developing webpages.
-
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/srujankachhadia23/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
