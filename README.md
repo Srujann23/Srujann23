@@ -11,7 +11,7 @@
 <img src="https://komarev.com/ghpvc/?username=Srujann23&style=flat-square&color=blue" alt=""/>
 </div>
 <h3 align = "center">
-  hey there, I'm Srujan Kachhadia
+  Hey there, I'm Srujan Kachhadia
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h3>
 
