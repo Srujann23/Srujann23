@@ -2,6 +2,10 @@
   <a href="https://www.linkedin.com/in/srujankachhadia23/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <br>
+  <a href="https://www.instagram.com/srujan_patell">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
 </div>
 <div id = "counter" align = "center">
 <img src="https://komarev.com/ghpvc/?username=Srujann23&style=flat-square&color=blue" alt=""/>
@@ -95,3 +99,10 @@
 </td>
 </tr>
 </table>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Manav0407&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
