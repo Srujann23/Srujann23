@@ -19,7 +19,7 @@
  [![Activity graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Srujann23&theme=transparent)](https://github.com/Srujann23/)
 
 ## Top Languages: 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Srujann23&show_icons=true&theme=transparent&layout=compact)]
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Srujann23&show_icons=true&theme=transparent&layout=compact)
 ## Stats:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Srujann23&theme=transparent)
  
