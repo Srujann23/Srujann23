@@ -14,10 +14,6 @@
   Hey there, I'm Srujan
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h3>
-
-## Activity Graph: 
- [![Activity graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Srujann23&theme=transparent)](https://github.com/Srujann23/)
-
 ## Stats:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Srujann23&theme=transparent)
  
