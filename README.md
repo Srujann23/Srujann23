@@ -14,6 +14,8 @@
   Hey there, I'm Srujan
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h3>
+
 ## Stats:
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Srujann23&theme=transparent)
  
